@@ -1,4 +1,4 @@
-**Pascal Compiler**
+# **Pascal Compiler**
 
 The work are seperated into 4 subparts: lexer, parser, checker and compiler. The code is in src folder and reports in japanese language are in report folder.
 
